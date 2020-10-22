@@ -1,0 +1,26 @@
+body{
+    background-color: #eeeeee;
+}
+.pojemnik{
+    margin: 20px;
+    font-size: 1.5rem;
+    box-shadow: inset -3px -3px 7px #ffffffb0, inset 3px 3px 5px rgba(94, 104, 121, 0.692);
+}
+.skresl{
+    text-decoration: line-through;
+}
+.usun{
+    display: none;
+}
+.btn{
+    box-shadow: inset -3px -3px 7px #ffffffb0, inset 3px 3px 5px rgba(94, 104, 121, 0.692);
+}
+input{
+    box-shadow: inset -3px -3px 7px #ffffffb0, inset 3px 3px 5px rgba(94, 104, 121, 0.692);
+}
+#zegar{
+    box-shadow: inset -3px -3px 7px #ffffffb0, inset 3px 3px 5px rgba(94, 104, 121, 0.692);
+    font-size: 1.5rem;
+}
+
+    
